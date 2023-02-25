@@ -3,7 +3,8 @@ QrScanner that scans a bar code and displays the results on a text view. I used 
 ## Library
 I used the zxing dependency for the code scanner =>
 https://github.com/yuriy-budiyev/code-scanner
-##Features
+
+## Features
 * Auto focus and flash light control
 * Portrait and landscape screen orientations
 * Back and front facing cameras

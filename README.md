@@ -10,5 +10,6 @@ https://github.com/yuriy-budiyev/code-scanner
 * Back and front facing cameras
 * Customizable viewfinder
 * Touch focus
-
+## Screenshot of App 
+![WhatsApp Image 2023-02-25 at 06 35 49](https://user-images.githubusercontent.com/72200097/221354881-a2d68999-8292-4db6-a3e5-1da6149ff8a5.jpeg)
 
